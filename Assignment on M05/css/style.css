@@ -1,0 +1,18 @@
+.custom_btn1{
+  color: rgb(247, 255, 254);
+  background: #68cf07;
+}
+
+.custom_btn2{
+  color: rgb(247, 255, 254);
+  background: #cf0782;
+}
+
+.table-bordered{
+  border: 2px solid tomato;
+  background-color: antiquewhite;
+}
+
+.card{
+  width: 300px;
+}
